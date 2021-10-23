@@ -9,7 +9,7 @@ First, install the package:
 ```bash
 npm install ls-shorthand
 ```
-
+Then, import the function and use it as below:
 ```javascript
 const lS = require("ls-shorthand");
 
