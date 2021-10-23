@@ -1,0 +1,9 @@
+{
+  "name": "ls-shorthand",
+  "version": "1.0.0",
+  "description": "A shorthand for localStorage API",
+  "main": "index.js",
+  "author": "Ali Bahaari",
+  "license": "MIT",
+  "keywords": ["JS", "JavaScript", "localStorage API", "Shorthand"]
+}
